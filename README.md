@@ -14,5 +14,5 @@
 	}
 
 # Live Version: 
-	[![](https://jitpack.io/v/tharvestbd/HTTP-Request.svg)](https://jitpack.io/#tharvestbd/HTTP-Request)
+[![](https://jitpack.io/v/tharvestbd/HTTP-Request.svg)](https://jitpack.io/#tharvestbd/HTTP-Request)
 
