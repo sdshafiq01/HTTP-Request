@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HTTP Request</string>
+    <string name="errortext">Please try again latter</string>
+    <string name="agent">OkHttp-THBD</string>
+</resources>
